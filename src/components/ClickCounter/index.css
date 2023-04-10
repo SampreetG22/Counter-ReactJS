@@ -1,0 +1,33 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Roboto';
+  padding: 70px;
+}
+.subContainer {
+  text-align: center;
+}
+.mainHead {
+  font-weight: bold;
+  font-size: 50px;
+  margin-bottom: 15px;
+}
+.paraCSS {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+.numberCSS {
+  color: #c20a72;
+}
+.buttonCSS {
+  color: white;
+  background-color: #007bff;
+  padding: 5px;
+  width: 70px;
+  font-size: 12px;
+  cursor: pointer;
+  border: none;
+  border-radius: 3px;
+}
